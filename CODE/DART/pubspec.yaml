@@ -1,0 +1,11 @@
+name: arc_interpolation
+description: Trigonometric interpolation curves with SVG output
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.21.0
